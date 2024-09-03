@@ -2,6 +2,7 @@ import Blog from "./components/blog";
 function App() {
   return (
     <>
+       
       <Blog/>
     </>
   );
