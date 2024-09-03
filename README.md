@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# BlinkBlog
+BlinkBlog is a real-time blogging platform built with React and Firebase. It allows users to create, view, and manage blogs instantly. The app leverages Firebase for real-time database updates, ensuring that new blogs are visible to all users as soon as they're posted.
+>>>>>>> 07cfc806ef0e240a2445c37a5a03322df43a33b6
